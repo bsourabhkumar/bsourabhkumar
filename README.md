@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bsourabhkumar
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning React.js 
+- 🌱 I’m currently learning Node, Express and MongoDB
 - 💞️ I’m looking to collaborate on Frontend Development
 - 📫 How to reach me 
 Mail:          bsourabhkumar@gmail.com
