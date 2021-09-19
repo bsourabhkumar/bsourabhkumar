@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bsourabhkumar
+- 👋 Hi, I’m Sourabh Kumar
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning Node, Express and MongoDB
 - 💞️ I’m looking to collaborate on Frontend Development
